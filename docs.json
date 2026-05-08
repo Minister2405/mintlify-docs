@@ -84,6 +84,48 @@
           }
         ]
       }
+    ],
+    "versions": [
+      {
+        "version": "Version 1",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "Core Concepts",
+            "pages": [
+              "essentials/overview"
+            ]
+          },
+          {
+            "group": "API Reference",
+            "pages": [
+              "api-reference/overview",
+              "api-reference/graphql"
+            ]
+          },
+          {
+            "group": "REST API",
+            "pages": [
+              "api-reference/rest"
+            ]
+          },
+          {
+            "group": "Events API",
+            "pages": [
+              "api-reference/events"
+            ]
+          }
+        ]
+      },
+      {
+        "version": "Version 2"
+      }
     ]
   },
   "logo": {
