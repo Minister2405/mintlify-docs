@@ -94,7 +94,8 @@
             "pages": [
               "index",
               "quickstart"
-            ]
+            ],
+            "openapi": "https://apihub.document360.io/swagger/v2/swagger.json"
           },
           {
             "group": "Core Concepts",
