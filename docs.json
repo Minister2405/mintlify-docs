@@ -125,7 +125,10 @@
         ]
       },
       {
-        "version": "Version 2"
+        "version": "Version 2",
+        "pages": [
+          "testing"
+        ]
       }
     ]
   },
